@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Fellini!</h1>
 <h3 align="center">A passionate Software Engineer in Test</h3>
 
-- 🔭 I’m currently working on **Meta**
+- 🔭 I’m currently working on **Meta (meta.com.br) on a project for Dell**
 
 - 🌱 I’m currently learning **Java, Cypress, Selenium, JUnit**
 
