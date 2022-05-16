@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Fellini!</h1>
-<h3 align="center">A passionate Software Engineer in Test</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **DBC Company https://www.dbccompany.com.br/ on a project for Bank Sicredi**
 
